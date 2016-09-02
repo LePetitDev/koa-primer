@@ -6,5 +6,5 @@ node --use-strict app.js
 or, if using nodemon,
 nodemon --use-strict app.js
 
-**Go to the following URLs to test the routes.
+**Go to the following URL to test a routes.
 http://localhost:3000
