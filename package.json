@@ -14,8 +14,8 @@
     "bluebird": "^2.9.6",
     "koa": "^0.18.0",
     "koa-bodyparser": "^1.4.1",
-    "koa-router": "^4.2.0"
+    "koa-router": "^4.2.0",
+    "request": "^2.74.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
